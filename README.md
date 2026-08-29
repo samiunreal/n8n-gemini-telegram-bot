@@ -32,3 +32,9 @@ An automated Telegram bot that leverages **n8n**, **Google Gemini API**, and **n
 * **Practical Problem Solving:** Mastered local environment tunneling, webhook setups, and API integrations.
 * **Professional Portfolio Asset:** Demonstrates modern AI and workflow automation skills on GitHub.
 * **24/7 Availability:** Functions as a continuous, automated response system.
+
+* ---
+
+## 📷 Workflow Architecture & Preview
+![n8n Workflow](workflow1.png)
+*(You can import the included `workflow1.json` or `My workflow.json` file directly into your n8n instance to use this workflow.)*
